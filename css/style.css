@@ -70,6 +70,7 @@ p {
 }
 .l-heading {
   font-size: 40px;
+  line-height: 1.2;
 }
 /* Padding */
 .py-1 {
@@ -90,7 +91,7 @@ p {
 #navbar a {
   color: #fff;
 }
-#navbar h1 {
+#navbar .logo {
   float: left;
   padding-top: 20px;
 }
@@ -131,7 +132,7 @@ p {
 }
 /* Home Info */
 #home-info {
-  height: 400px;
+  height: 450px;
 }
 #home-info .info-img {
   float: left;
@@ -202,7 +203,7 @@ p {
 }
 /* Contact form */
 #contact-form .form-group {
-  margin-bottom: 20px;
+  margin-bottom: 50px;
 }
 #contact-form label {
   display: block;
